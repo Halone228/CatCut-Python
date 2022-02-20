@@ -2,6 +2,8 @@ from typing import Optional, Union
 import requests
 import hashlib
 
+__version__ = '1.0'
+
 class CatCutApi:
     def __init__(self,id: Union[int,str], secret_code: str) -> None:
         """__init__
