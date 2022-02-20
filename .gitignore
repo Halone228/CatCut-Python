@@ -1290,3 +1290,13 @@ venv/Lib/site-packages/urllib3-1.26.8.dist-info/RECORD
 venv/Lib/site-packages/urllib3-1.26.8.dist-info/top_level.txt
 venv/Lib/site-packages/urllib3-1.26.8.dist-info/WHEEL
 venv/Scripts/normalizer.exe
+setup.py
+venv/Lib/site-packages/CatCut_Api-1.0-py3.9.egg
+venv/Lib/site-packages/easy-install.pth
+venv/Scripts/normalizer-script.py
+dist/CatCut_Api-1.0-py3.9.egg
+CatCut_Api.egg-info/dependency_links.txt
+CatCut_Api.egg-info/PKG-INFO
+CatCut_Api.egg-info/requires.txt
+CatCut_Api.egg-info/SOURCES.txt
+CatCut_Api.egg-info/top_level.txt

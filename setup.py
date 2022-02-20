@@ -1,10 +1,9 @@
 import sys
-from .catcut import __version__ as catcut_ver
 from setuptools import setup, find_packages
 with open('README.md','r') as f:
     long_description = f.read()
     
-version = catcut_ver
+version = '1.0'
 
 deps = [
     'requests'
@@ -19,7 +18,7 @@ setup(
     description=('Api for site https://catcut.net'),
     license='MIT',
     python_requires='>=3.6',
-    packages=find_packages,
+    packages=find_packages(),
     install_requires=deps,
     include_package_data=True,
     long_description=long_description
